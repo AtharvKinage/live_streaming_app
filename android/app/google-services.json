@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151397493269",
+    "project_id": "livestreaming-7b712",
+    "storage_bucket": "livestreaming-7b712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151397493269:android:6e06a9872d80610cb83c1c",
+        "android_client_info": {
+          "package_name": "com.example.live_streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151397493269-b1vhd8162c9bv9r5una63qbvt9o29if4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.live_streaming",
+            "certificate_hash": "6a541e97d7d234521fdab5063b4f74ccb1a1c5a3"
+          }
+        },
+        {
+          "client_id": "151397493269-6e06aphgc2b3tlerakkch1i43jo80bsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOnu4rMscYERzmzyW0Ea46SHXcff2eA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151397493269-6e06aphgc2b3tlerakkch1i43jo80bsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
