@@ -55,7 +55,7 @@ class _BroadcastScreenState extends State<BroadcastScreen> {
     _joinChannel();
   }
 
-  String baseUrl = "https://live-streaming-app-server.herokuapp.com";
+  String baseUrl = "https://live-streaming-server-navy.vercel.app";
 
   String? token;
 
